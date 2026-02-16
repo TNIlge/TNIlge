@@ -4,12 +4,12 @@ Passionate about mobile and web app development, I turn ideas into reliable, mai
 
 ---
 
-## 🚀 About Me
+##  About Me
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.  I specialize in full-stack development and strive to keep myself updated with the latest trends in the tech industry.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TNIlge&theme=tokyonight" alt="GitHub Profile" />
 
@@ -19,7 +19,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ---
 
-### 🔧 Technical Skills
+###  Technical Skills
 - **Languages:** PHP, Java, Python, C, JavaScript, HTML, CSS
 - **Backend & Tools:** Node.js, Express, Git, VS Code, Eclipse, NetBeans
 - **Databases:** MySQL, PostgreSQL, MongoDB
@@ -28,14 +28,14 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ---
 
-### 📫 Contact
+###  Contact
 - **Email:** ilge6.tchoualanodem@gmail.com 
 - **Phone:** +33 0766091238
 - **LinkedIn:** https://www.linkedin.com/in/ilge-tchouala-nodem-059109373
 
 ---
 
-### 🌐 Tools & Badges
+###  Tools & Badges
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,nodejs,mysql,mongodb,git&perline=6" />
