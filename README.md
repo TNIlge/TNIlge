@@ -1,35 +1,66 @@
-# Hello, I'm TNIlge 👋
+# Ilge TCHOUALA NODEM
 
-## About Me
+## Title
+Software Engineer / Full-Stack Developer
 
-I'm a passionate developer with a love for creating innovative solutions and learning new technologies.  I specialize in full-stack development and strive to keep myself updated with the latest trends in the tech industry.
+## Contact
+- **Email**: ilge6.tchoualanodem@gmail.com  
+- **Phone**: +33 07 66 09 12 38
 
-## GitHub Stats
+## Professional Summary
+Engineering student seeking a 24-month internship from September 2026.
 
-![TNIlge's GitHub stats](https://github-readme-stats.vercel.app/api?username=TNIlge&show_icons=true&theme=radical)
+## Backend Skills
+- Python  
+- Java  
+- Node.js Express  
+- MongoDB  
+- PHP  
+- SQL (MySQL, PostgreSQL)
 
-## Technical Skills
+## Frontend Skills
+- ReactJS  
+- HTML5/CSS3/JavaScript  
+- Bootstrap
 
-- **Languages:** JavaScript, Python, Java, C++  
-- **Frameworks:** React, Node.js, Express, Django  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & Platforms:** Git, Heroku, Docker, AWS  
+## Tools
+- API REST  
+- Git/GitHub  
+- VS Code  
+- IntelliJ IDEA
 
-## Contact Information
+## Projects
+- **Multilingual Institutional Website** (PHP/JavaScript/HTML5/CSS3/Bootstrap/SQL)
+- **Enterprise Management Web Platform** (PHP/MySQL/JavaScript)
+- **Hangman Game** in C
 
-Feel free to reach out to me!  
-- **Email:** tnilege@example.com  
-- **LinkedIn:** [linkedin.com/in/tnilge](https://www.linkedin.com/in/tnilge)  
-- **Twitter:** [@tnilge](https://twitter.com/tnilge)  
+## Internship
+**Divine-Art-Corporation** (06/2025-08/2025)
 
-## Skill Badges
+## Education
+- **EILCO Engineering School** (2025-Present)  
+- **IUC Preparatory Classes** (2023-2025)  
+- **Baccalaureate C** (2022-2023)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=flat-square&logo=javascript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+## Languages
+- French (Native)  
+- English (B1)  
+- Spanish (Beginner)
+
+## Soft Skills
+- Initiative  
+- Communication  
+- Teamwork  
+- Agile methodology
+
+## Interests
+- Reading  
+- Personal development  
+- Meditation  
+- Sports  
+- Collaborative projects
+
 
 ---
 
-Thank you for visiting my profile!
+*Created on 2026-02-16 13:22:00 by TNIlge*
