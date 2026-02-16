@@ -38,7 +38,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ### 🌐 Tools & Badges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,r,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,nodejs,mysql,mongodb, git&perline=6" />
   </a>
 </p>
 
