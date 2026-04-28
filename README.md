@@ -8,12 +8,11 @@ Passionate about mobile and web app development, I turn ideas into reliable, mai
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.  I specialize in full-stack development and strive to keep myself updated with the latest trends in the tech industry.
 
 ---
-
-###  GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TNIlge&theme=tokyonight" alt="GitHub Profile" />
 
-  <img src="https://github-readme-stats-ten-theta.vercel.app/api/top-langs/?username=TNIlge&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TNIlge&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
